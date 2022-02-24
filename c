@@ -1,5 +1,5 @@
 blue
-brown
+brownish
 green
 yellow
 tally
