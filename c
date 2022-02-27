@@ -7,3 +7,4 @@ pink
 brown
 white
 black
+violet
