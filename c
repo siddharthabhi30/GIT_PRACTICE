@@ -5,7 +5,7 @@ yellowish
 tallytt
 pink
 brown
-white
+whiteish
 black
 violet
 crayonish
