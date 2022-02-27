@@ -1,7 +1,7 @@
 blue
 brownish
 green
-yellow
+yellowish
 tallytt
 pinkish
 brown
