@@ -4,7 +4,7 @@ green
 yellowish
 tallytt
 pink
-brownish
-white
-blackish
+brown
+whiteish
+blackist
 violet
