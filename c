@@ -3,6 +3,6 @@ brownish
 green
 yellowish
 tallytt
-pinkish
+pink
 brown
 white
