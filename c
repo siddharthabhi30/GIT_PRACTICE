@@ -2,5 +2,5 @@ blue
 brownish
 green
 yellow
-tallytt
+tally
 pinkishll
