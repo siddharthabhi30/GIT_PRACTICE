@@ -4,7 +4,7 @@ green
 yellowish
 tallytt
 pink
-brown
+brownish
 white
 blackish
 violet
