@@ -5,3 +5,4 @@ yellow
 tallytt
 pinkish
 brown
+white
