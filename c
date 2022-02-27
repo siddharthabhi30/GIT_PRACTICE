@@ -6,3 +6,4 @@ tallytt
 pinkish
 brown
 white
+black
