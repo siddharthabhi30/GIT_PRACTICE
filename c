@@ -6,5 +6,5 @@ tallytt
 pink
 brown
 white
-black
+blackish
 violet
